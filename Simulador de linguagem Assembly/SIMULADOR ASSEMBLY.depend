@@ -1,0 +1,340 @@
+# depslib dependency file v1.0
+1466418701 source:c:\users\home\desktop\aps arquitetura\aps arquitetura\main.cpp
+	<iostream>
+	"Interface.cpp"
+
+1465497600 .cpp"
+
+1465844512 
+
+1466418534 source:c:\users\home\desktop\aps arquitetura\aps arquitetura\op_binaria.cpp
+	"Op_binaria.h"
+	<iostream>
+	<math.h>
+
+1466418522 c:\users\home\desktop\aps arquitetura\aps arquitetura\op_binaria.h
+	<iostream>
+	<math.h>
+	<fstream>
+
+1465848864 >
+
+1465218086 source:c:\users\home\desktop\aps arquitetura\aps arquitetura\op_logicas.cpp
+	"Op_logicas.h"
+
+1466419118 s.h"
+
+1465218086 c:\users\home\desktop\aps arquitetura\aps arquitetura\op_logicas.h
+	"Op_binaria.h"
+
+1465218086 a.h"
+
+1465244649 source:/home/todos/alunos/cm/a1710958/Documentos/APS ARQUITETURA/APS ARQUITETURA/main.cpp
+	<iostream>
+	"Interface.cpp"
+
+1465240893 source:/home/todos/alunos/cm/a1710958/Documentos/APS ARQUITETURA/APS ARQUITETURA/Op_binaria.cpp
+	"Op_binaria.h"
+	<iostream>
+	<math.h>
+
+1465240806 /home/todos/alunos/cm/a1710958/Documentos/APS ARQUITETURA/APS ARQUITETURA/Op_binaria.h
+	<iostream>
+	<math.h>
+	<fstream>
+
+1465218086 source:/home/todos/alunos/cm/a1710958/Documentos/APS ARQUITETURA/APS ARQUITETURA/Op_logicas.cpp
+	"Op_logicas.h"
+
+1465218086 /home/todos/alunos/cm/a1710958/Documentos/APS ARQUITETURA/APS ARQUITETURA/Op_logicas.h
+	"Op_binaria.h"
+
+1465244092 /home/todos/alunos/cm/a1710958/Documentos/APS ARQUITETURA/APS ARQUITETURA/Registradores.h
+	"Op_binaria.h"
+	"Op_logicas.h"
+
+1465244794 /home/todos/alunos/cm/a1710958/Documentos/APS ARQUITETURA/APS ARQUITETURA/Interface.cpp
+	"Interface.h"
+
+1466419117 .h"
+
+1465244285 /home/todos/alunos/cm/a1710958/Documentos/APS ARQUITETURA/APS ARQUITETURA/Interface.h
+	"Op_binaria.h"
+	"Op_logicas.h"
+	"Registradores.cpp"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<string.h>
+
+1465244225 /home/todos/alunos/cm/a1710958/Documentos/APS ARQUITETURA/APS ARQUITETURA/Registradores.cpp
+	"Registradores.h"
+
+1466419118 ores.h"
+
+1465497600 source:g:\faculdade\aps arquitetura\aps arquitetura\main.cpp
+	<iostream>
+	"Interface.cpp"
+
+1465505365 g:\faculdade\aps arquitetura\aps arquitetura\interface.cpp
+	"Interface.h"
+
+1465504019 g:\faculdade\aps arquitetura\aps arquitetura\interface.h
+	"Op_binaria.h"
+	"Op_logicas.h"
+	"Registradores.cpp"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<conio.h>
+
+1465240806 g:\faculdade\aps arquitetura\aps arquitetura\op_binaria.h
+	<iostream>
+	<math.h>
+	<fstream>
+
+1465218086 g:\faculdade\aps arquitetura\aps arquitetura\op_logicas.h
+	"Op_binaria.h"
+
+1465505679 g:\faculdade\aps arquitetura\aps arquitetura\registradores.cpp
+	"Registradores.h"
+
+1465505080 g:\faculdade\aps arquitetura\aps arquitetura\registradores.h
+	"Op_binaria.h"
+	"Op_logicas.h"
+
+1465240893 source:g:\faculdade\aps arquitetura\aps arquitetura\op_binaria.cpp
+	"Op_binaria.h"
+	<iostream>
+	<math.h>
+
+1465218086 source:g:\faculdade\aps arquitetura\aps arquitetura\op_logicas.cpp
+	"Op_logicas.h"
+
+1465497600 source:/run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA/APS ARQUITETURA/main.cpp
+	<iostream>
+	"Interface.cpp"
+
+1465848864 /run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA/APS ARQUITETURA/Interface.cpp
+	"Interface.h"
+	<ncurses.h>
+
+1465844512 /run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA/APS ARQUITETURA/Interface.h
+	"Op_binaria.h"
+	"Op_logicas.h"
+	"Registradores.cpp"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<string.h>
+
+1465240806 /run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA/APS ARQUITETURA/Op_binaria.h
+	<iostream>
+	<math.h>
+	<fstream>
+
+1465218086 /run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA/APS ARQUITETURA/Op_logicas.h
+	"Op_binaria.h"
+
+1465505679 /run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA/APS ARQUITETURA/Registradores.cpp
+	"Registradores.h"
+
+1465505080 /run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA/APS ARQUITETURA/Registradores.h
+	"Op_binaria.h"
+	"Op_logicas.h"
+
+1465240893 source:/run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA/APS ARQUITETURA/Op_binaria.cpp
+	"Op_binaria.h"
+	<iostream>
+	<math.h>
+
+1465218086 source:/run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA/APS ARQUITETURA/Op_logicas.cpp
+	"Op_logicas.h"
+
+1466419117 c:\users\home\desktop\aps arquitetura\aps arquitetura\interface.cpp
+	"Interface.h"
+
+1465844512 c:\users\home\desktop\aps arquitetura\aps arquitetura\interface.h
+	"Op_binaria.h"
+	"Op_logicas.h"
+	"Registradores.cpp"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<string.h>
+
+1466419118 c:\users\home\desktop\aps arquitetura\aps arquitetura\registradores.cpp
+	"Registradores.h"
+
+1466419118 c:\users\home\desktop\aps arquitetura\aps arquitetura\registradores.h
+	"Op_binaria.h"
+	"Op_logicas.h"
+
+1466453885 source:/run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA - FINAL/main.cpp
+	<iostream>
+	"Interface.cpp"
+
+1466448604 /run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA - FINAL/Interface.cpp
+	"Interface.h"
+
+1465844512 /run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA - FINAL/Interface.h
+	"Op_binaria.h"
+	"Op_logicas.h"
+	"Registradores.cpp"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<string.h>
+
+1466453789 /run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA - FINAL/Op_binaria.h
+	<iostream>
+	<math.h>
+	<fstream>
+
+1465218086 /run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA - FINAL/Op_logicas.h
+	"Op_binaria.h"
+
+1466453832 /run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA - FINAL/Registradores.cpp
+	"Registradores.h"
+
+1466419118 /run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA - FINAL/Registradores.h
+	"Op_binaria.h"
+	"Op_logicas.h"
+
+1466453672 source:/run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA - FINAL/Op_binaria.cpp
+	"Op_binaria.h"
+	<iostream>
+	<math.h>
+
+1465218086 source:/run/media/a1710958/ANDERSON/FACULDADE/APS ARQUITETURA - FINAL/Op_logicas.cpp
+	"Op_logicas.h"
+
+1466857729 source:g:\faculdade\aps arquitetura - final\op_binaria.cpp
+	"Op_binaria.h"
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
+1466467849 g:\faculdade\aps arquitetura - final\op_binaria.h
+	<iostream>
+	<math.h>
+	<fstream>
+
+1466467850 source:g:\faculdade\aps arquitetura - final\op_logicas.cpp
+	"Op_logicas.h"
+
+1465218086 g:\faculdade\aps arquitetura - final\op_logicas.h
+	"Op_binaria.h"
+
+1466857727 source:g:\faculdade\aps arquitetura - final\main.cpp
+	<iostream>
+	"Interface.cpp"
+
+1466858746 g:\faculdade\aps arquitetura - final\interface.cpp
+	"Interface.h"
+
+1466858726 g:\faculdade\aps arquitetura - final\interface.h
+	"Op_binaria.h"
+	"Op_logicas.h"
+	"Registradores.cpp"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<string.h>
+
+1466858204 g:\faculdade\aps arquitetura - final\registradores.cpp
+	"Registradores.h"
+
+1466467850 g:\faculdade\aps arquitetura - final\registradores.h
+	"Op_binaria.h"
+	"Op_logicas.h"
+
+1466859414 source:d:\anderson\utfpr\1∫ periodo de 2016\arquitetura e organiza«√o de computadores\aps - vers√o finalizada\aps arquitetura - final\main.cpp
+	<iostream>
+	"Interface.cpp"
+
+1467028044 d:\anderson\utfpr\1∫ periodo de 2016\arquitetura e organiza«√o de computadores\aps - vers√o finalizada\aps arquitetura - final\interface.cpp
+	"Interface.h"
+
+1466858915 d:\anderson\utfpr\1∫ periodo de 2016\arquitetura e organiza«√o de computadores\aps - vers√o finalizada\aps arquitetura - final\interface.h
+	"Op_binaria.h"
+	"Op_logicas.h"
+	"Registradores.cpp"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<string.h>
+
+1466467849 d:\anderson\utfpr\1∫ periodo de 2016\arquitetura e organiza«√o de computadores\aps - vers√o finalizada\aps arquitetura - final\op_binaria.h
+	<iostream>
+	<math.h>
+	<fstream>
+
+1465218086 d:\anderson\utfpr\1∫ periodo de 2016\arquitetura e organiza«√o de computadores\aps - vers√o finalizada\aps arquitetura - final\op_logicas.h
+	"Op_binaria.h"
+
+1466858204 d:\anderson\utfpr\1∫ periodo de 2016\arquitetura e organiza«√o de computadores\aps - vers√o finalizada\aps arquitetura - final\registradores.cpp
+	"Registradores.h"
+
+1466467850 d:\anderson\utfpr\1∫ periodo de 2016\arquitetura e organiza«√o de computadores\aps - vers√o finalizada\aps arquitetura - final\registradores.h
+	"Op_binaria.h"
+	"Op_logicas.h"
+
+1466857729 source:d:\anderson\utfpr\1∫ periodo de 2016\arquitetura e organiza«√o de computadores\aps - vers√o finalizada\aps arquitetura - final\op_binaria.cpp
+	"Op_binaria.h"
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
+1466858790 source:d:\anderson\utfpr\1∫ periodo de 2016\arquitetura e organiza«√o de computadores\aps - vers√o finalizada\aps arquitetura - final\op_logicas.cpp
+	"Op_logicas.h"
+
+1466857729 source:c:\users\maurÌcio\desktop\anderson\c\aps arquitetura - final\op_binaria.cpp
+	"Op_binaria.h"
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
+1466467849 c:\users\maurÌcio\desktop\anderson\c\aps arquitetura - final\op_binaria.h
+	<iostream>
+	<math.h>
+	<fstream>
+
+1466858790 source:c:\users\maurÌcio\desktop\anderson\c\aps arquitetura - final\op_logicas.cpp
+	"Op_logicas.h"
+
+1465218086 c:\users\maurÌcio\desktop\anderson\c\aps arquitetura - final\op_logicas.h
+	"Op_binaria.h"
+
+1528226287 source:c:\users\maurÌcio\desktop\anderson\c\aps arquitetura - final\main.cpp
+	<iostream>
+	"Interface.cpp"
+
+1467028044 c:\users\maurÌcio\desktop\anderson\c\aps arquitetura - final\interface.cpp
+	"Interface.h"
+
+1466858915 c:\users\maurÌcio\desktop\anderson\c\aps arquitetura - final\interface.h
+	"Op_binaria.h"
+	"Op_logicas.h"
+	"Registradores.cpp"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<string.h>
+
+1466858204 c:\users\maurÌcio\desktop\anderson\c\aps arquitetura - final\registradores.cpp
+	"Registradores.h"
+
+1466467850 c:\users\maurÌcio\desktop\anderson\c\aps arquitetura - final\registradores.h
+	"Op_binaria.h"
+	"Op_logicas.h"
+

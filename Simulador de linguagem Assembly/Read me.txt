@@ -1,0 +1,29 @@
+App: Simulador Assembly
+Versão: 1.0
+
+Descrição:
+>>> Este projeto consiste em um simulador de interpretador de linguagem assembly,
+O simulador contem palavras de 16 bits, onde as instruções são divididas em 4 bits 
+de OP code e 12 bits de endereço. Operando totalmente em complemento de 2.
+
+O simulador compreende as seguintes instruções, que devem ser salvas em um arquivo de texto com
+o nome Codigo.txt, este arquivo é lido e salvo em um vetor, de onde é processado pelo software:
+
+Instrução		Mneumônico		Significado
+0001000001100100	LOAD 100		AC = conteúdo do endereço 100
+0010000001100100	STOR 100		Endereço 100 = AC
+0011000001100100	ADD 100			AC = AC + conteúdo do endereço 100
+0100000001100100	SUB 100			AC = AC – conteúdo do endereço 100
+0101000001100100	MUL 100			AC = AC * conteúdo do endereço 100
+0110000001100100	DIV 100			AC = AC div conteúdo do endereço 100
+0111000001100100	MOD 100			AC = AC % conteúdo do endereço 100
+1000000001100100	OR 100			AC = AC ou lógico conteúdo do endereço 100
+1001000001100100	AND 100			AC = AC e lógico conteúdo do endereço 100
+1010000001100100	JUMP 100		PC = 100
+1011000001100100	JUMPZ 100		PC = 100 se AC = 0
+1100000001100100	JUMPN 100		PC = 100 se AC < 0
+1101000001100100	JUMPP 100		PC = 100 se AC > 0
+1110000000000000	INC			AC = AC +1
+1111000000000000	END			Não permite continuar execução do código
+
+O simulador possui os registradores PC, MAR, MBR, IR E AC.
