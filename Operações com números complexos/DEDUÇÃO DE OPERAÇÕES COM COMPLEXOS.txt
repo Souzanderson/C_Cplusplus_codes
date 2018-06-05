@@ -1,0 +1,37 @@
+operações com complexos
+
+dados z1=a+jb e z2=c+jd :
+
+-> multiplicação
+
+z1 x z2=z <-> z= (ac-bd)+j(ad+bc);
+
+=> logo: 	real(ac-bd);
+		img(ad+bc);
+
+-> divisão:
+
+z1/z2= z <-> z = (z1 x z2*)/(z2 x z2*)
+
+onde z2* = (c-jd);
+
+=> z = [(ac+bd)+j(bc-ad)]/(c^2+d^2)
+
+=> logo:	real((ac+bd)/(c^2+d^2));
+		img((bc-ad)/(c^2+d^2));
+
+-> Soma
+
+z1+z2 <-> z= (a+c) + (b+d)j;
+
+=> logo:	real(a+c);
+		img(b+d);
+
+-> Subtração
+
+z1-z2 <-> z= (a-c) + (b-d)j;
+
+=> logo:	real(a-c);
+		img(b-d);
+-----------------------------------------------------
+=>
