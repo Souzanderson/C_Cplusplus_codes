@@ -1,0 +1,7 @@
+App: Carga_do_capacitor.c
+Versão: 1.0
+
+Descrição:
+>>> Software útil em aulas de circuitos 1, princípios de circuitos elétricos ou 
+fundamentos de circuítos elétricos, permite calcular o tempo de carga de um capacitor
+diante de alguns dados de entrada e saída do circuito.

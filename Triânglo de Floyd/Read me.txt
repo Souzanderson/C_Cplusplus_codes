@@ -1,0 +1,7 @@
+App: Triangulo_de_floyd.c
+Versão: 1.0
+
+Descrição:
+>>> Esse aplicativo utiliza uma dedução da fórmula geral do triângulo de
+Floyd, permitindo o cálculo imediato de qualquer elemento do triângulo, ou do
+próprio de forma eficiente e única.

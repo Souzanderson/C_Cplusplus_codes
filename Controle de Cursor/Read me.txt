@@ -1,0 +1,8 @@
+App: Controle_de_Cursor.c
+Versão: 1.0
+
+Descrição:
+>>> Esse software cria um loop que permite controlar a posição de um cursor na tela,
+podendo ser utilizado para a criação de jogos simples em ambiente de linha de comando.
+Aceita a entrada por setas do teclado e a finalização se da pela tecla scape.
+Utiliza a biblioteca conio.
